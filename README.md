@@ -22,9 +22,9 @@ I am Adrian Marticio, a passionate coder with strong database management skills.
 
 ## Skills
 
-- **Programming:** Java, Javascript
+- **Programming:** Java, Javascript, Kotlin, Python
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, Pentaho
 
 ## Contact Me
 
